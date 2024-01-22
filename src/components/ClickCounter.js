@@ -1,5 +1,5 @@
 // src/components/ClickCounter.js
-import React, { useState } from "react";
+/* import React, { useState } from "react";
 
 const ClickCounter = () => {
   const [clickCount, setClickCount] = useState(0);
@@ -16,4 +16,4 @@ const ClickCounter = () => {
   );
 };
 
-export default ClickCounter;
+export default ClickCounter; */
